@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/qq/Desktop/Junit/hamcrest-core-1.3.jar",
+            "/Users/qq/Desktop/Junit/junit-4.13.2.jar"
+        ],
+        "exclude": [
+            "lib/hamcrest-core-1.3.jar",
+            "lib/junit-4.13.2.jar"
+        ]
+    }
+}
